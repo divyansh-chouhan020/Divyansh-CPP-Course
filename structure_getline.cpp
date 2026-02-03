@@ -19,6 +19,7 @@ struct student{
 void PrintDetails(struct student s )
 {
     cout <<"Age :- "<<s.age<<"\n"<<"Name :- "<<s.name<<"\n"<<"Book :- "<<s.book<<"\n";
+    cout <<"\n";
 }
 int main()
 {
