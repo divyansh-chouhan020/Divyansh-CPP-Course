@@ -4,6 +4,9 @@
 // cin : It takes words only ignore text after the spaces 
 // ignore(n, '\n'): It ignore the next n buffer element ending with \name
 
+//-- Point TO Rememebr :- 1. When taking input for character Array -> cin.getline(s.name, 20)
+//                        2. When taking input for string -> getline(cin,s1.name)
+
 #include<iostream>
 #include<string>
 #include<string.h>
